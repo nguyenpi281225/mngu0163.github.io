@@ -76,6 +76,6 @@ function validateForm() {
     }
     
     alert("Successfully sent!");
-    return true 
+    return false 
     
 }
